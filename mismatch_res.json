@@ -1,0 +1,2726 @@
+{
+  "2I35": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7F55": {},
+  "4MBS": {
+    "CYS58": "TYR58",
+    "GLY163": "ASN163",
+    "ALA233": "ASP233",
+    "LYS303": "GLU303"
+  },
+  "6OSA": {
+    "ALA85": "LEU85"
+  },
+  "6OYA": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6ME6": {
+    "ASP86": "ASN86",
+    "LEU108": "PHE108",
+    "PHE129": "TRP129",
+    "ASN137": "ASP137",
+    "CYS140": "LEU140",
+    "TRP264": "PHE264",
+    "ALA305": "PRO305",
+    "ASN312": "ASP312"
+  },
+  "5UNF": {},
+  "5NM2": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7FIG": {},
+  "7RYC": {},
+  "6IGL": {
+    "ARG124": "TYR124",
+    "ASP154": "ALA154",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "7EW1": {},
+  "6J21": {
+    "GLU78": "ASP78",
+    "TYR121": "TRP121",
+    "GLN165": "ALA165",
+    "THR222": "ARG222"
+  },
+  "5TE5": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "2R4S": {},
+  "7P02": {},
+  "6PH7": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5UNH": {},
+  "6K42": {},
+  "6AKY": {
+    "CYS58": "TYR58",
+    "GLY163": "ASN163",
+    "ALA233": "ASP233",
+    "LYS303": "GLU303"
+  },
+  "4ZJ8": {
+    "VAL319": "ILE319"
+  },
+  "6ME9": {
+    "ASP86": "ASN86",
+    "LEU108": "PHE108",
+    "PHE129": "TRP129",
+    "ASN137": "ASP137",
+    "CYS140": "LEU140",
+    "TRP264": "PHE264",
+    "ALA305": "PRO305",
+    "ASN312": "ASP312"
+  },
+  "7VUH": {
+    "SER62": "VAL62"
+  },
+  "3QAK": {},
+  "6KUW": {
+    "VAL122": "TRP122",
+    "ILE139": "ALA139",
+    "PHE391": "TRP391"
+  },
+  "7VUG": {
+    "SER62": "VAL62"
+  },
+  "7WC7": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "7JV5": {},
+  "6PT2": {
+    "GLY73": "VAL73",
+    "ASN90": "SER90",
+    "ASP95": "GLY95",
+    "LYS108": "ASP108",
+    "ASN131": "SER131",
+    "SER143": "CYS143",
+    "GLY268": "VAL268",
+    "ALA309": "ILE309",
+    "GLU323": "LYS323"
+  },
+  "5W0P": {
+    "GLU113": "GLN113",
+    "MET257": "TYR257"
+  },
+  "7LD3": {},
+  "6FKC": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6D9H": {},
+  "4ZWJ": {
+    "GLU113": "GLN113",
+    "MET257": "TYR257"
+  },
+  "6TPN": {
+    "GLU54": "ALA54",
+    "TYR91": "LEU91",
+    "ASP100": "ALA100",
+    "VAL142": "ALA142",
+    "ARG170": "LEU170",
+    "TYR219": "ALA219",
+    "MET233": "ALA233",
+    "ALA242": "LEU242",
+    "ILE308": "VAL308",
+    "LEU310": "VAL310",
+    "LEU318": "ALA318",
+    "THR347": "ALA347",
+    "CYS381": "TRP381",
+    "CYS382": "TRP382",
+    "CYS383": "TRP383"
+  },
+  "6ZFZ": {
+    "GLY21": "GLU21",
+    "PRO22": "THR22",
+    "TRP23": "VAL23",
+    "GLN24": "GLU24",
+    "VAL25": "MET25",
+    "ALA26": "VAL26",
+    "PHE27": "ALA27",
+    "GLY29": "ALA29",
+    "ILE30": "THR30",
+    "THR31": "VAL31",
+    "THR32": "ALA32",
+    "LEU44": "ILE44",
+    "VAL46": "LEU46",
+    "LEU47": "MET47",
+    "ILE48": "LEU48",
+    "PHE50": "ILE50",
+    "THR54": "ARG54",
+    "GLU55": "GLN55",
+    "LYS57": "GLN57",
+    "LEU64": "ALA64",
+    "LEU65": "PHE65",
+    "THR76": "ALA76",
+    "THR84": "VAL84",
+    "LEU86": "ILE86",
+    "LEU87": "ILE87",
+    "THR95": "ALA95",
+    "TRP101": "ALA101",
+    "SER112": "ALA112",
+    "ALA143": "LEU143",
+    "ALA196": "THR196",
+    "LYS362": "ALA362",
+    "ALA364": "LEU364",
+    "SER411": "ALA411",
+    "CYS435": "ALA435"
+  },
+  "7F9Z": {},
+  "5WS3": {
+    "ILE308": "VAL308"
+  },
+  "7WVY": {
+    "SER211": "LEU211"
+  },
+  "5G53": {
+    "ARG309": "GLU309",
+    "GLN310": "ASN310",
+    "GLN311": "LEU311",
+    "GLU312": "TYR312"
+  },
+  "6QNO": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "MET257": "TYR257",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7VGX": {},
+  "5N2S": {},
+  "7WQ3": {},
+  "7WQ4": {},
+  "6KPG": {
+    "GLU273": "LYS273",
+    "THR283": "VAL283",
+    "ARG340": "GLU340"
+  },
+  "2I36": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7EJA": {},
+  "3UZA": {
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "5UIW": {
+    "CYS58": "TYR58",
+    "GLY163": "ASN163",
+    "ALA233": "ASP233",
+    "LYS303": "GLU303"
+  },
+  "3PBL": {
+    "LEU119": "TRP119"
+  },
+  "7LJC": {},
+  "4LDL": {},
+  "6JOD": {
+    "SER208": "ALA208"
+  },
+  "4UHR": {
+    "LEU48": "ALA48",
+    "ALA54": "LEU54",
+    "THR65": "ALA65",
+    "GLN89": "ALA89"
+  },
+  "6ZDR": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "5LWE": {
+    "THR77": "ALA77",
+    "VAL79": "ALA79",
+    "MET82": "ALA82",
+    "SER141": "CYS141",
+    "THR216": "ALA216",
+    "VAL255": "ALA255",
+    "ASN294": "ALA294",
+    "THR304": "ALA304",
+    "CYS337": "ALA337"
+  },
+  "5XPR": {
+    "ARG124": "TYR124",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "4J4Q": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7EJK": {},
+  "5T1A": {
+    "LEU226": "SER226",
+    "LYS227": "ARG227",
+    "THR228": "ALA228",
+    "LEU229": "SER229",
+    "LEU230": "LYS230",
+    "ARG231": "SER231",
+    "CYS232": "ARG232",
+    "LYS236": "SER236",
+    "LYS237": "ARG237",
+    "ARG238": "GLU238",
+    "HIS239": "LYS239",
+    "ARG240": "LYS240",
+    "SER314": "ARG314",
+    "LEU315": "TYR315",
+    "PHE316": "LEU316",
+    "HIS317": "SER317",
+    "ILE318": "VAL318",
+    "ALA319": "PHE319",
+    "LEU320": "PHE320"
+  },
+  "7F1S": {
+    "GLY163": "ASN163"
+  },
+  "7BU6": {},
+  "4LDO": {},
+  "4RWD": {},
+  "7NA8": {
+    "THR130": "LYS130"
+  },
+  "7WVX": {
+    "SER211": "LEU211"
+  },
+  "6DO1": {},
+  "6QZH": {
+    "LEU145": "TRP145",
+    "ARG248": "SER248",
+    "THR249": "LYS249",
+    "LEU251": "HIS251",
+    "PHE256": "HIS256"
+  },
+  "7VDH": {},
+  "6GPS": {
+    "CYS70": "TYR70",
+    "GLY175": "ASN175",
+    "ALA241": "ASP241",
+    "LYS311": "GLU311"
+  },
+  "7VKT": {
+    "LEU106": "TRP106",
+    "ALA196": "ILE196",
+    "CYS287": "PHE287"
+  },
+  "6PS4": {
+    "GLU122": "TRP122"
+  },
+  "7RMH": {},
+  "6TOS": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "7DFL": {},
+  "5OM4": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7PIV": {},
+  "7C4S": {},
+  "7PIU": {},
+  "7EXD": {},
+  "5JQH": {},
+  "7VH0": {
+    "LEU108": "PHE108",
+    "PHE129": "TRP129",
+    "CYS140": "LEU140"
+  },
+  "7S8M": {},
+  "6RZ5": {},
+  "6FKA": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7EJX": {},
+  "4NC3": {
+    "MET144": "TRP144"
+  },
+  "6PT3": {
+    "GLY73": "VAL73",
+    "ASN90": "SER90",
+    "ASP95": "GLY95",
+    "LYS108": "ASP108",
+    "ASN131": "SER131",
+    "SER143": "CYS143",
+    "GLY268": "VAL268",
+    "ALA309": "ILE309",
+    "GLU323": "LYS323"
+  },
+  "4IB4": {
+    "MET144": "TRP144"
+  },
+  "6WHA": {},
+  "7F1T": {
+    "CYS58": "TYR58",
+    "MET64": "ALA64",
+    "GLY163": "ASN163",
+    "ALA233": "ASP233",
+    "ARG274": "ALA274",
+    "THR284": "ALA284",
+    "LYS303": "GLU303"
+  },
+  "7TUZ": {},
+  "5XJM": {},
+  "7T6V": {},
+  "6TO7": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "5MZJ": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6W25": {
+    "GLU49": "VAL49",
+    "ASN97": "LEU97",
+    "SER99": "PHE99",
+    "SER131": "ALA131",
+    "ASP298": "ASN298"
+  },
+  "6NWE": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7EW0": {},
+  "3VW7": {},
+  "3PDS": {
+    "HIS93": "CYS93"
+  },
+  "3KJ6": {},
+  "3PQR": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5OLZ": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7JOZ": {},
+  "7XTC": {},
+  "3C9M": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "3PWH": {
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7VLA": {},
+  "6LFM": {},
+  "3ODU": {
+    "LEU125": "TRP125"
+  },
+  "7VUI": {
+    "SER62": "VAL62"
+  },
+  "6N48": {},
+  "6ME7": {
+    "ASP86": "ASN86",
+    "LEU108": "PHE108",
+    "PHE129": "TRP129",
+    "ASN137": "ASP137",
+    "CYS140": "LEU140",
+    "HIS208": "ALA208",
+    "TRP264": "PHE264",
+    "ALA305": "PRO305",
+    "ASN312": "ASP312"
+  },
+  "3OE8": {
+    "LEU125": "TRP125"
+  },
+  "6WJC": {
+    "ASN110": "GLN110",
+    "SER112": "ARG112"
+  },
+  "5UVI": {
+    "MET1": "PRO1"
+  },
+  "5MZP": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "5X7D": {},
+  "5IUB": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6PS0": {
+    "GLU122": "TRP122"
+  },
+  "6GDG": {
+    "SER7": "ALA7"
+  },
+  "4NTJ": {
+    "ASP294": "ASN294"
+  },
+  "7T6B": {},
+  "4YAY": {},
+  "6M9T": {
+    "GLY286": "ALA286"
+  },
+  "6ME5": {
+    "ASP73": "ASN73",
+    "LEU95": "PHE95",
+    "GLY104": "ALA104",
+    "PHE116": "TRP116",
+    "ASN124": "ASP124",
+    "CYS127": "LEU127",
+    "TRP251": "PHE251",
+    "ALA292": "PRO292",
+    "ASN299": "ASP299"
+  },
+  "7DHI": {
+    "CYS77": "VAL77",
+    "MET96": "THR96",
+    "MET98": "THR98",
+    "GLU122": "TRP122",
+    "CYS125": "VAL125",
+    "CYS265": "ALA265",
+    "CYS285": "ALA285",
+    "CYS327": "SER327"
+  },
+  "6LFL": {
+    "LEU135": "TRP135",
+    "ALA249": "GLU249",
+    "GLY303": "ALA303"
+  },
+  "6IIV": {
+    "LEU247": "ALA247"
+  },
+  "7BU7": {},
+  "6K1Q": {
+    "ARG124": "TYR124",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "7EJ8": {},
+  "6TPJ": {
+    "GLU54": "ALA54",
+    "TYR91": "LEU91",
+    "ASP100": "ALA100",
+    "VAL142": "ALA142",
+    "ARG170": "LEU170",
+    "TYR219": "ALA219",
+    "MET233": "ALA233",
+    "ALA242": "LEU242",
+    "ILE308": "VAL308",
+    "LEU310": "VAL310",
+    "LEU318": "ALA318",
+    "THR347": "ALA347",
+    "CYS381": "TRP381",
+    "CYS382": "TRP382",
+    "CYS383": "TRP383"
+  },
+  "7E2X": {
+    "LEU125": "TRP125"
+  },
+  "6PS5": {
+    "GLU122": "TRP122"
+  },
+  "7VUY": {},
+  "6PEL": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5KW2": {
+    "LEU42": "ALA42",
+    "PHE88": "ALA88",
+    "GLY103": "ALA103",
+    "TYR202": "PHE202"
+  },
+  "4PXZ": {
+    "ASP294": "ASN294"
+  },
+  "2I37": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "4ZJC": {
+    "VAL319": "ILE319"
+  },
+  "4RWA": {},
+  "7BR3": {
+    "PRO128": "LYS128"
+  },
+  "7DHR": {
+    "CYS77": "VAL77",
+    "MET96": "THR96",
+    "MET98": "THR98",
+    "GLU122": "TRP122",
+    "CYS125": "VAL125",
+    "CYS285": "ALA285",
+    "CYS327": "SER327"
+  },
+  "4S0V": {
+    "ILE308": "VAL308"
+  },
+  "6LFO": {},
+  "5OLO": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6TPK": {
+    "ARG65": "HIS65",
+    "VAL120": "LEU120",
+    "ASP153": "ALA153",
+    "ALA167": "VAL167",
+    "ALA218": "THR218",
+    "SER224": "ALA224",
+    "SER322": "CYS322",
+    "ASN325": "LYS325",
+    "THR333": "MET333",
+    "GLU339": "GLY339",
+    "LEU340": "ILE340",
+    "VAL341": "ASP341",
+    "ARG343": "SER343",
+    "LEU345": "TRP345",
+    "SER348": "ASN348",
+    "ALA349": "GLU349"
+  },
+  "7EIB": {
+    "PHE126": "TRP126"
+  },
+  "4LDE": {},
+  "7T6S": {},
+  "7WC4": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "7CX4": {},
+  "6ZG9": {
+    "GLY21": "GLU21",
+    "PRO22": "THR22",
+    "TRP23": "VAL23",
+    "GLN24": "GLU24",
+    "VAL25": "MET25",
+    "ALA26": "VAL26",
+    "PHE27": "ALA27",
+    "GLY29": "ALA29",
+    "ILE30": "THR30",
+    "THR31": "VAL31",
+    "THR32": "ALA32",
+    "LEU44": "ILE44",
+    "VAL46": "LEU46",
+    "LEU47": "MET47",
+    "ILE48": "LEU48",
+    "PHE50": "ILE50",
+    "THR54": "ARG54",
+    "GLU55": "GLN55",
+    "LYS57": "GLN57",
+    "LEU64": "ALA64",
+    "LEU65": "PHE65",
+    "THR76": "ALA76",
+    "THR84": "VAL84",
+    "LEU86": "ILE86",
+    "LEU87": "ILE87",
+    "THR95": "ALA95",
+    "TRP101": "ALA101",
+    "SER112": "ALA112",
+    "ALA143": "LEU143",
+    "ALA196": "THR196",
+    "LYS362": "ALA362",
+    "ALA364": "LEU364",
+    "SER411": "ALA411",
+    "CYS435": "ALA435"
+  },
+  "4Z35": {
+    "CYS327": "GLY327"
+  },
+  "6AKX": {
+    "CYS58": "TYR58",
+    "GLY163": "ASN163",
+    "ALA233": "ASP233",
+    "LYS303": "GLU303"
+  },
+  "6HLL": {
+    "LEU74": "ALA74",
+    "VAL116": "ILE116",
+    "ALA144": "LEU144",
+    "MET181": "LYS181",
+    "ALA215": "LEU215",
+    "TRP224": "ARG224",
+    "LYS243": "ALA243"
+  },
+  "7L1U": {
+    "ILE308": "VAL308"
+  },
+  "5NJ6": {
+    "GLY89": "ALA89",
+    "HIS108": "ALA108",
+    "GLY157": "ALA157",
+    "MET166": "LEU166",
+    "TYR174": "ALA174",
+    "VAL176": "GLU176",
+    "MET268": "ALA268",
+    "ILE289": "ALA289",
+    "LEU293": "ALA293"
+  },
+  "7EJ0": {},
+  "6PT0": {},
+  "6TP3": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "5WQC": {
+    "ILE308": "VAL308"
+  },
+  "4A4M": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "MET257": "TYR257",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7S8L": {},
+  "6WQA": {
+    "MET1": "PRO1"
+  },
+  "7CMV": {},
+  "5TE3": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7DB6": {},
+  "6S0L": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6RZ7": {
+    "TRP51": "VAL51",
+    "ASP84": "ASN84",
+    "PHE137": "TYR137"
+  },
+  "5ZKB": {
+    "SER110": "ARG110"
+  },
+  "5DSG": {},
+  "4PY0": {
+    "ASP294": "ASN294"
+  },
+  "7VV4": {},
+  "6K41": {},
+  "7CMU": {},
+  "7EVY": {},
+  "2X72": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "GLU113": "GLN113",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5EN0": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "THR94": "ILE94",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7P00": {},
+  "5JTB": {
+    "MET1": "PRO1"
+  },
+  "7MBX": {},
+  "7VUZ": {},
+  "7AUE": {},
+  "3NY9": {
+    "GLU122": "TRP122"
+  },
+  "5N2R": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "5DHH": {},
+  "7WC5": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "7F58": {},
+  "7S8N": {},
+  "4QKX": {},
+  "7XTB": {},
+  "6OS9": {
+    "ALA85": "LEU85"
+  },
+  "7CFN": {},
+  "6J20": {
+    "GLU78": "ASN78",
+    "TYR121": "TRP121",
+    "THR222": "ARG222"
+  },
+  "7DW9": {},
+  "5K2A": {
+    "MET1": "PRO1"
+  },
+  "7W2Z": {},
+  "6VMS": {
+    "THR205": "ILE205",
+    "ARG222": "LEU222",
+    "LYS226": "ASN226",
+    "MET374": "LEU374",
+    "VAL378": "TYR378",
+    "VAL381": "LEU381",
+    "VAL421": "ILE421"
+  },
+  "7S8P": {},
+  "5K2C": {
+    "MET1": "PRO1"
+  },
+  "5NDD": {
+    "GLY89": "ALA89",
+    "HIS108": "ALA108",
+    "GLY157": "ALA157",
+    "MET166": "LEU166",
+    "TYR174": "ALA174",
+    "VAL176": "GLU176",
+    "MET268": "ALA268",
+    "ILE289": "ALA289",
+    "LEU293": "ALA293"
+  },
+  "4XNW": {
+    "ASP320": "ASN320"
+  },
+  "7CKX": {},
+  "7BTS": {},
+  "6LPL": {
+    "MET1": "PRO1"
+  },
+  "5ZBH": {
+    "PHE129": "TRP129"
+  },
+  "7EZK": {},
+  "5TUD": {
+    "MET144": "TRP144"
+  },
+  "7F2O": {
+    "CYS146": "TRP146"
+  },
+  "7F8X": {
+    "PHE130": "TRP130",
+    "LYS241": "ASN241",
+    "PHE242": "ILE242",
+    "GLU243": "PHE243",
+    "ALA244": "GLU244",
+    "SER245": "MET245",
+    "ILE355": "LYS355",
+    "CYS387": "SER387"
+  },
+  "4DJH": {
+    "ILE135": "LEU135"
+  },
+  "6AQF": {
+    "MET1": "PRO1"
+  },
+  "7CRH": {},
+  "6VI4": {
+    "ILE135": "LEU135"
+  },
+  "5OLH": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6OBA": {},
+  "2YDO": {
+    "LEU48": "ALA48",
+    "ALA54": "LEU54",
+    "THR65": "ALA65",
+    "GLN89": "ALA89"
+  },
+  "4X1H": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6V9S": {
+    "ALA133": "LYS133",
+    "VAL319": "ILE319"
+  },
+  "6FK9": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5XRA": {
+    "THR210": "ALA210",
+    "GLU273": "LYS273",
+    "THR283": "VAL283",
+    "ARG340": "GLU340"
+  },
+  "6CM4": {
+    "ILE122": "ALA122",
+    "LEU375": "ALA375",
+    "LEU379": "ALA379"
+  },
+  "7VV5": {},
+  "5GLI": {
+    "ARG124": "TYR124",
+    "ASP154": "ALA154",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "7CFM": {},
+  "4PXF": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5YHL": {
+    "ALA62": "LEU62",
+    "GLY106": "ARG106"
+  },
+  "7LD4": {},
+  "4MQS": {},
+  "3NY8": {
+    "GLU122": "TRP122"
+  },
+  "7T6U": {},
+  "7NA7": {
+    "THR130": "LYS130"
+  },
+  "7EW4": {},
+  "2J4Y": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6OFJ": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6PS7": {
+    "MET1": "PRO1"
+  },
+  "7RMG": {},
+  "7TD4": {},
+  "6LW5": {
+    "SER211": "LEU211"
+  },
+  "6OY9": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5DGY": {
+    "GLU113": "GLN113",
+    "MET257": "TYR257"
+  },
+  "7M8W": {
+    "VAL204": "ALA204"
+  },
+  "7VL9": {},
+  "5O9H": {
+    "SER85": "ALA85",
+    "ILE91": "ALA91",
+    "ILE142": "ALA142",
+    "ASN146": "ARG146",
+    "ALA156": "LEU156",
+    "PHE172": "ALA172",
+    "ARG232": "ALA232"
+  },
+  "7VOE": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "6PS3": {
+    "GLU122": "TRP122"
+  },
+  "6WGT": {
+    "LEU247": "ALA247",
+    "LEU371": "ALA371"
+  },
+  "7S8O": {},
+  "3OAX": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7TD3": {},
+  "6LI1": {
+    "ALA130": "TRP130",
+    "ALA264": "LEU264",
+    "TRP278": "GLN278",
+    "CYS314": "PRO314",
+    "SER318": "ALA318",
+    "ASN321": "ASP321",
+    "VAL323": "THR323"
+  },
+  "7WF7": {
+    "PHE133": "TRP133"
+  },
+  "5OLV": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7BZ2": {
+    "CYS77": "VAL77",
+    "MET96": "THR96",
+    "MET98": "THR98",
+    "GLU122": "TRP122",
+    "CYS125": "VAL125",
+    "CYS265": "ALA265",
+    "CYS285": "ALA285",
+    "CYS327": "SER327"
+  },
+  "5K2D": {
+    "MET1": "PRO1"
+  },
+  "7VGY": {},
+  "5VRA": {
+    "MET1": "PRO1"
+  },
+  "7JVR": {},
+  "4Z34": {
+    "CYS327": "GLY327"
+  },
+  "4ZUD": {},
+  "5D5A": {},
+  "4UG2": {
+    "LEU48": "ALA48",
+    "ALA54": "LEU54",
+    "THR65": "ALA65",
+    "GLN89": "ALA89"
+  },
+  "7F8U": {
+    "ASP87": "ASN87",
+    "PHE130": "TRP130"
+  },
+  "4EIY": {
+    "MET1": "PRO1"
+  },
+  "6A93": {
+    "LEU69": "THR69",
+    "SER162": "LYS162",
+    "MET164": "TRP164"
+  },
+  "6S0Q": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6FUF": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "MET257": "TYR257",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300"
+  },
+  "6DRZ": {
+    "MET144": "TRP144",
+    "ALA225": "GLY225"
+  },
+  "6TOT": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "7BB7": {},
+  "6LPK": {
+    "MET1": "PRO1"
+  },
+  "7FIJ": {},
+  "7EZM": {},
+  "6TQ7": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "2HPY": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7VGZ": {},
+  "5DYS": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "THR94": "ILE94",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7EO4": {
+    "PHE133": "TRP133"
+  },
+  "4RWS": {
+    "LEU125": "TRP125",
+    "ASP187": "CYS187",
+    "THR240": "PRO240"
+  },
+  "7EZC": {
+    "ILE92": "ASN92"
+  },
+  "7VV0": {},
+  "5WF5": {
+    "ASP52": "ASN52"
+  },
+  "6TP4": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375"
+  },
+  "6FK6": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6PRZ": {
+    "GLU122": "TRP122"
+  },
+  "6G79": {
+    "LEU138": "TRP138"
+  },
+  "6TQ6": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "7WVU": {},
+  "6HLO": {
+    "LEU74": "ALA74",
+    "VAL116": "ILE116",
+    "ALA144": "LEU144",
+    "MET181": "LYS181",
+    "ALA215": "LEU215",
+    "TRP224": "ARG224",
+    "LYS243": "ALA243"
+  },
+  "7FII": {},
+  "5V54": {
+    "LEU138": "TRP138"
+  },
+  "3UON": {},
+  "6LI0": {
+    "ALA130": "TRP130",
+    "ALA264": "LEU264",
+    "TRP278": "GLN278",
+    "CYS314": "PRO314",
+    "SER318": "ALA318",
+    "ASN321": "ASP321",
+    "VAL323": "THR323"
+  },
+  "7L1V": {
+    "ILE308": "VAL308"
+  },
+  "7E2Y": {
+    "LEU125": "TRP125"
+  },
+  "6WWZ": {},
+  "3OE0": {
+    "LEU125": "TRP125",
+    "THR240": "PRO240"
+  },
+  "6MET": {},
+  "7JNI": {},
+  "7F4F": {},
+  "6TQ9": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "6MH8": {
+    "MET1": "PRO1"
+  },
+  "4PHU": {
+    "LEU42": "ALA42",
+    "PHE88": "ALA88",
+    "GLY103": "ALA103",
+    "TYR202": "PHE202"
+  },
+  "3REY": {
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6ME2": {
+    "ASP73": "ASN73",
+    "LEU95": "PHE95",
+    "GLY104": "ALA104",
+    "PHE116": "TRP116",
+    "ASN124": "ASP124",
+    "CYS127": "LEU127",
+    "TRP251": "PHE251",
+    "ALA292": "PRO292",
+    "ASN299": "ASP299"
+  },
+  "6ME8": {
+    "LEU108": "PHE108",
+    "PHE129": "TRP129",
+    "ASN137": "ASP137",
+    "CYS140": "LEU140",
+    "TRP264": "PHE264",
+    "ALA305": "PRO305",
+    "ASN312": "ASP312"
+  },
+  "3P0G": {
+    "GLU27": "GLN27"
+  },
+  "7CKZ": {},
+  "3RFM": {
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7EVZ": {},
+  "4Z36": {
+    "ASP204": "CYS204",
+    "VAL282": "CYS282",
+    "CYS327": "GLY327"
+  },
+  "7EW3": {},
+  "7JVQ": {},
+  "5NDZ": {
+    "GLY89": "ALA89",
+    "HIS108": "ALA108",
+    "GLY157": "ALA157",
+    "MET166": "LEU166",
+    "TYR174": "ALA174",
+    "VAL176": "GLU176",
+    "MET268": "ALA268",
+    "ILE289": "ALA289",
+    "LEU293": "ALA293"
+  },
+  "5TGZ": {
+    "THR210": "ALA210",
+    "GLU273": "LYS273",
+    "THR283": "VAL283",
+    "ARG340": "GLU340"
+  },
+  "6DRX": {
+    "MET144": "TRP144"
+  },
+  "6UP7": {},
+  "3RZE": {},
+  "6PS1": {
+    "GLU122": "TRP122"
+  },
+  "6HLP": {
+    "LEU74": "ALA74",
+    "VAL116": "ILE116",
+    "ALA144": "LEU144",
+    "MET181": "LYS181",
+    "ALA215": "LEU215",
+    "TRP224": "ARG224",
+    "LYS243": "ALA243"
+  },
+  "5TZY": {
+    "LEU42": "ALA42",
+    "GLY103": "ALA103",
+    "TYR202": "PHE202"
+  },
+  "5IU4": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7E2Z": {
+    "LEU125": "TRP125"
+  },
+  "6FKD": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "4BEY": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "GLY90": "ASP90",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7VOD": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "6BQG": {
+    "CYS360": "ASN360"
+  },
+  "4N6H": {},
+  "2G87": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "2PED": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6B73": {
+    "ILE135": "LEU135"
+  },
+  "5WIV": {},
+  "3VGA": {},
+  "7F4D": {},
+  "7DH5": {
+    "GLU36": "ALA36",
+    "ALA37": "VAL37",
+    "ALA47": "GLU47",
+    "TRP64": "ARG64",
+    "ALA81": "THR81",
+    "MET86": "VAL86",
+    "ALA94": "GLY94",
+    "HIS102": "ARG102",
+    "CYS153": "ARG153",
+    "THR156": "ALA156",
+    "MET202": "ILE202",
+    "VAL205": "ALA205",
+    "VAL229": "LEU229",
+    "GLY240": "ARG240",
+    "CYS292": "ARG292",
+    "MET298": "VAL298",
+    "LEU310": "VAL310",
+    "LEU314": "MET314",
+    "GLY325": "SER325",
+    "PHE328": "LEU328"
+  },
+  "5VBL": {
+    "VAL117": "ALA117",
+    "TRP261": "LYS261",
+    "CYS325": "LEU325",
+    "CYS326": "MET326"
+  },
+  "6ME3": {
+    "ASP73": "ASN73",
+    "LEU95": "PHE95",
+    "GLY104": "ALA104",
+    "PHE116": "TRP116",
+    "ASN124": "ASP124",
+    "CYS127": "LEU127",
+    "TRP251": "PHE251",
+    "ALA292": "PRO292",
+    "ASN299": "ASP299"
+  },
+  "7EZH": {},
+  "7KH0": {},
+  "6ZG4": {
+    "GLY21": "GLU21",
+    "PRO22": "THR22",
+    "TRP23": "VAL23",
+    "GLN24": "GLU24",
+    "VAL25": "MET25",
+    "ALA26": "VAL26",
+    "PHE27": "ALA27",
+    "GLY29": "ALA29",
+    "ILE30": "THR30",
+    "THR31": "VAL31",
+    "THR32": "ALA32",
+    "LEU44": "ILE44",
+    "VAL46": "LEU46",
+    "LEU47": "MET47",
+    "ILE48": "LEU48",
+    "PHE50": "ILE50",
+    "THR54": "ARG54",
+    "GLU55": "GLN55",
+    "LYS57": "GLN57",
+    "LEU64": "ALA64",
+    "LEU65": "PHE65",
+    "THR76": "ALA76",
+    "THR84": "VAL84",
+    "LEU86": "ILE86",
+    "LEU87": "ILE87",
+    "THR95": "ALA95",
+    "TRP101": "ALA101",
+    "SER112": "ALA112",
+    "ALA143": "LEU143",
+    "ALA196": "THR196",
+    "LYS362": "ALA362",
+    "ALA364": "LEU364",
+    "SER411": "ALA411",
+    "CYS435": "ALA435"
+  },
+  "6D26": {
+    "VAL204": "ALA204"
+  },
+  "7F8Y": {
+    "ASP87": "ASN87",
+    "PHE130": "TRP130"
+  },
+  "5ZK3": {
+    "SER110": "ARG110"
+  },
+  "7WVW": {
+    "SER211": "LEU211"
+  },
+  "6KO5": {
+    "THR130": "LYS130"
+  },
+  "7EO2": {
+    "PHE133": "TRP133"
+  },
+  "6KPF": {},
+  "5U09": {
+    "THR210": "ALA210"
+  },
+  "6OL9": {
+    "SER117": "ARG117"
+  },
+  "2YDV": {
+    "LEU48": "ALA48",
+    "ALA54": "LEU54",
+    "THR65": "ALA65",
+    "GLN89": "ALA89"
+  },
+  "7T11": {
+    "SER238": "VAL238",
+    "SER245": "ARG245",
+    "LYS246": "GLU246",
+    "ARG247": "LYS247",
+    "LYS248": "ASP248",
+    "LYS249": "ARG249",
+    "SER250": "ASN250",
+    "GLU251": "LEU251",
+    "LYS252": "ARG252"
+  },
+  "7VV6": {},
+  "7C6A": {
+    "LEU93": "VAL93",
+    "PHE133": "TRP133"
+  },
+  "6U1N": {},
+  "2RH1": {},
+  "3D4S": {
+    "GLU122": "TRP122"
+  },
+  "7WVV": {
+    "SER211": "LEU211"
+  },
+  "5D6L": {},
+  "6NI3": {
+    "MET96": "THR96",
+    "MET98": "THR98"
+  },
+  "6N4B": {},
+  "6JZH": {
+    "MET1": "PRO1"
+  },
+  "5IU8": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "5IUA": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6LRY": {
+    "ARG124": "TYR124",
+    "ASP154": "ALA154",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "7BVQ": {},
+  "6ZDV": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7VDM": {},
+  "4IAR": {
+    "LEU138": "TRP138"
+  },
+  "6TP6": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "6ME4": {
+    "ASP73": "ASN73",
+    "LEU95": "PHE95",
+    "GLY104": "ALA104",
+    "PHE116": "TRP116",
+    "ASN124": "ASP124",
+    "CYS127": "LEU127",
+    "TRP251": "PHE251",
+    "ALA292": "PRO292",
+    "ASN299": "ASP299"
+  },
+  "7MBY": {},
+  "6KPC": {
+    "GLY78": "LEU78",
+    "THR127": "ALA127",
+    "THR153": "LEU153",
+    "GLY210": "ALA210",
+    "ARG242": "GLU242",
+    "GLY304": "GLU304"
+  },
+  "7TD1": {},
+  "5TZR": {
+    "LEU42": "ALA42",
+    "PHE88": "ALA88",
+    "GLY103": "ALA103",
+    "TYR202": "PHE202"
+  },
+  "6DS0": {
+    "MET144": "TRP144"
+  },
+  "6RZ9": {
+    "TRP51": "VAL51",
+    "ASP84": "ASN84",
+    "PHE137": "TYR137"
+  },
+  "6KNM": {
+    "VAL117": "ALA117",
+    "TRP261": "LYS261",
+    "CYS325": "LEU325",
+    "CYS326": "MET326"
+  },
+  "6BQH": {
+    "CYS360": "ASN360"
+  },
+  "5UEN": {
+    "ASP221": "ARG221",
+    "PRO222": "ALA222",
+    "GLN223": "ARG223",
+    "LYS224": "SER224",
+    "TYR225": "THR225",
+    "TYR226": "LEU226",
+    "GLY227": "GLN227"
+  },
+  "4EJ4": {
+    "MET80": "LEU80"
+  },
+  "5ZBQ": {
+    "PHE129": "TRP129"
+  },
+  "5WIU": {},
+  "6MEO": {},
+  "7BW0": {},
+  "6PS6": {
+    "GLU122": "TRP122"
+  },
+  "7VDL": {},
+  "6KQI": {
+    "SER203": "LYS203",
+    "THR210": "ALA210",
+    "GLU273": "LYS273",
+    "THR283": "VAL283",
+    "ARG340": "GLU340"
+  },
+  "1HZX": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5D5B": {},
+  "5UNG": {},
+  "6PWC": {},
+  "6CMO": {
+    "GLU113": "GLN113",
+    "MET257": "TYR257"
+  },
+  "6GPX": {
+    "CYS70": "TYR70",
+    "GLY175": "ASN175",
+    "ALA241": "ASP241"
+  },
+  "5ZKC": {
+    "SER110": "ARG110"
+  },
+  "7TD0": {},
+  "7K15": {
+    "LEU106": "TRP106",
+    "SER116": "TYR116",
+    "ALA196": "ILE196",
+    "CYS287": "PHE287"
+  },
+  "6PS2": {
+    "GLU122": "TRP122"
+  },
+  "1F88": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6DRY": {
+    "MET144": "TRP144"
+  },
+  "6RZ6": {
+    "TRP51": "VAL51",
+    "ASP84": "ASN84",
+    "PHE137": "TYR137"
+  },
+  "7F53": {},
+  "6FKB": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7T6T": {},
+  "7PYR": {
+    "MET1": "PRO1",
+    "SER91": "LYS91"
+  },
+  "6FK7": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5ZKQ": {
+    "PHE116": "TYR116",
+    "ALA230": "ASP230",
+    "VAL234": "ALA234",
+    "ASP289": "ASN289"
+  },
+  "6OIK": {},
+  "4IAQ": {
+    "LEU138": "TRP138"
+  },
+  "6TQ4": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "5IU7": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "3OE6": {
+    "LEU125": "TRP125"
+  },
+  "3DQB": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5ZK8": {},
+  "5ZKP": {
+    "PHE116": "TYR116",
+    "ALA230": "ASP230",
+    "VAL234": "ALA234",
+    "ASP289": "ASN289"
+  },
+  "5TVN": {
+    "MET144": "TRP144"
+  },
+  "6A94": {
+    "LEU69": "THR69",
+    "SER162": "LYS162",
+    "MET164": "TRP164"
+  },
+  "7EW2": {},
+  "6TOD": {
+    "GLU46": "ALA46",
+    "ILE85": "LEU85",
+    "VAL95": "ALA95",
+    "ALA127": "THR127",
+    "ARG162": "LEU162",
+    "TYR211": "ALA211",
+    "LEU304": "VAL304",
+    "CYS339": "ALA339",
+    "CYS375": "TRP375",
+    "CYS376": "TRP376"
+  },
+  "7DDZ": {
+    "HIS149": "TYR149",
+    "SER280": "CYS280"
+  },
+  "7F4H": {},
+  "6KP6": {
+    "ILE93": "THR93",
+    "GLY150": "ALA150",
+    "ILE187": "ALA187",
+    "SER219": "TYR219",
+    "ASN449": "ARG449",
+    "THR459": "GLU459"
+  },
+  "6PGS": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "6FK8": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5OM1": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7O7F": {},
+  "6IIU": {
+    "LEU247": "ALA247"
+  },
+  "4BEZ": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "GLY90": "ASP90",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7EW7": {},
+  "7F8W": {},
+  "7VV3": {},
+  "7F4I": {},
+  "3VG9": {},
+  "3C9L": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "3UZC": {
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "6OMM": {},
+  "7CKW": {},
+  "7LJD": {},
+  "1U19": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5OLG": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "5CXV": {
+    "ASN110": "GLN110"
+  },
+  "7VL8": {},
+  "1L9H": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5UIG": {},
+  "6GT3": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7VUJ": {
+    "SER62": "VAL62"
+  },
+  "7D7M": {},
+  "4EA3": {},
+  "7UM4": {
+    "ASP86": "ASN86",
+    "ILE299": "ALA299"
+  },
+  "5ZTY": {
+    "GLY78": "LEU78",
+    "THR127": "ALA127",
+    "THR153": "LEU153",
+    "ARG242": "GLU242",
+    "GLY304": "GLU304"
+  },
+  "5YWY": {
+    "ALA62": "LEU62",
+    "GLY106": "ARG106"
+  },
+  "3PXO": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "7F9Y": {},
+  "7F83": {
+    "THR130": "LYS130"
+  },
+  "6LPJ": {
+    "MET1": "PRO1"
+  },
+  "5K2B": {
+    "MET1": "PRO1"
+  },
+  "7ARO": {
+    "MET1": "PRO1",
+    "ALA54": "LEU54",
+    "THR88": "ALA88",
+    "ARG107": "ALA107",
+    "LYS122": "ALA122",
+    "LEU202": "ALA202",
+    "LEU235": "ALA235",
+    "VAL239": "ALA239",
+    "SER277": "ALA277"
+  },
+  "7BB6": {},
+  "7PX4": {
+    "MET1": "PRO1",
+    "SER91": "LYS91"
+  },
+  "6LI3": {
+    "ALA130": "TRP130",
+    "CYS314": "PRO314"
+  },
+  "7TD2": {},
+  "3V2Y": {
+    "SER245": "ALA245",
+    "ARG246": "SER246",
+    "SER247": "ARG247",
+    "GLU249": "SER249",
+    "LYS250": "GLU250",
+    "SER251": "ASN251",
+    "LEU252": "VAL252",
+    "SER327": "GLY327"
+  },
+  "7DFP": {
+    "SER121": "LYS121",
+    "LEU123": "TRP123"
+  },
+  "7RM5": {
+    "MET1": "PRO1"
+  },
+  "7CKY": {},
+  "3V2W": {
+    "SER245": "ALA245",
+    "ARG246": "SER246",
+    "SER247": "ARG247",
+    "GLU249": "SER249",
+    "LYS250": "GLU250",
+    "SER251": "ASN251",
+    "LEU252": "VAL252"
+  },
+  "7JVP": {},
+  "3SN6": {
+    "MET96": "THR96",
+    "MET98": "THR98"
+  },
+  "6WH4": {
+    "LEU247": "ALA247",
+    "LEU371": "ALA371"
+  },
+  "7F8V": {},
+  "5X93": {
+    "ARG124": "TYR124",
+    "ASP154": "ALA154",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "3CAP": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "3EML": {},
+  "4XNV": {
+    "ASP320": "ASN320"
+  },
+  "7FIH": {},
+  "3NYA": {
+    "GLU122": "TRP122"
+  },
+  "7CX3": {},
+  "6D27": {
+    "VAL204": "ALA204"
+  },
+  "6TPG": {
+    "GLU54": "ALA54",
+    "TYR91": "LEU91",
+    "ASP100": "ALA100",
+    "VAL142": "ALA142",
+    "ARG170": "LEU170",
+    "TYR219": "ALA219",
+    "MET233": "ALA233",
+    "ALA242": "LEU242",
+    "ILE308": "VAL308",
+    "LEU310": "VAL310",
+    "LEU318": "ALA318",
+    "THR347": "ALA347",
+    "CYS381": "TRP381",
+    "CYS382": "TRP382",
+    "CYS383": "TRP383"
+  },
+  "5GLH": {
+    "ARG124": "TYR124",
+    "ASP154": "ALA154",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "7F54": {},
+  "7WC6": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "6RZ4": {},
+  "5DHG": {},
+  "1GZM": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "4MQT": {},
+  "7WC8": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "3OE9": {
+    "LEU125": "TRP125",
+    "THR240": "PRO240"
+  },
+  "5WKT": {
+    "VAL49": "MET49",
+    "LEU88": "PHE88",
+    "SER93": "THR93",
+    "ALA173": "VAL173",
+    "THR213": "ILE213",
+    "MET216": "LEU216",
+    "ILE218": "VAL218",
+    "VAL266": "LEU266",
+    "SER270": "GLY270",
+    "SER297": "THR297",
+    "ALA298": "SER298",
+    "ILE300": "VAL300",
+    "LEU318": "VAL318",
+    "ILE321": "LEU321"
+  },
+  "5WF6": {
+    "SER91": "ALA91"
+  },
+  "6PS8": {
+    "ASP73": "ASN73",
+    "LEU95": "PHE95",
+    "GLY104": "ALA104",
+    "PHE116": "TRP116",
+    "ASN124": "ASP124",
+    "CYS127": "LEU127",
+    "TRP251": "PHE251",
+    "ALA292": "PRO292",
+    "ASN299": "ASP299"
+  },
+  "7UM5": {
+    "HIS146": "PRO146"
+  },
+  "6IGK": {
+    "ARG124": "TYR124",
+    "ASP154": "ALA154",
+    "LYS270": "ALA270",
+    "SER342": "ALA342",
+    "ILE381": "ALA381",
+    "CYS396": "ALA396",
+    "CYS400": "ALA400"
+  },
+  "6RZ8": {
+    "TRP51": "VAL51",
+    "ASP84": "ASN84",
+    "PHE137": "TYR137"
+  },
+  "6LI2": {
+    "ALA130": "TRP130",
+    "ALA264": "LEU264",
+    "TRP278": "GLN278",
+    "CYS314": "PRO314",
+    "SER318": "ALA318",
+    "ASN321": "ASP321",
+    "VAL323": "THR323"
+  },
+  "7WC9": {
+    "SER162": "LYS162",
+    "MET164": "TRP164",
+    "SER372": "ASN372"
+  },
+  "2R4R": {},
+  "6AK3": {
+    "ALA173": "ILE173",
+    "VAL185": "SER185",
+    "SER258": "ASP258",
+    "CYS289": "LEU289"
+  },
+  "7RMI": {},
+  "5YC8": {
+    "SER110": "ARG110"
+  },
+  "6OIJ": {
+    "ASN110": "GLN110"
+  },
+  "7CX2": {},
+  "7T10": {
+    "SER238": "VAL238",
+    "SER245": "ARG245",
+    "LYS246": "GLU246",
+    "ARG247": "LYS247",
+    "LYS248": "ASP248",
+    "LYS249": "ARG249",
+    "SER250": "ASN250",
+    "GLU251": "LEU251",
+    "LYS252": "ARG252"
+  }
+}
